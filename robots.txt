@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zailaxi.github.io/xiangjiaoshi/sitemap.xml
